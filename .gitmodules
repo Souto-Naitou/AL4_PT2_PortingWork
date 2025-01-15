@@ -1,0 +1,3 @@
+[submodule "Externals/GEDX12"]
+	path = Externals/GEDX12
+	url = https://github.com/Souto-Naitou/GameEngine_DX12.git
